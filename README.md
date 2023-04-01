@@ -38,7 +38,7 @@ Examples: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - 🔭 I’m currently working on Node.js backend projects!
 - 🌱 I’m currently learning web development, especially backend!
 - 🤔 I’m looking for help with Node.js & collaboration with other developers!
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-siwonkim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siwonkim@gmail.com)](mailto:siwonkim@gmail.com) 
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:siwonkim@gmail.com)](mailto:siwonkim@gmail.com) 
 - ✍️ Check out my tech blog: [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://siwonlog.hashnode.dev/)](https://siwonlog.hashnode.dev/)
 - 😄 Pronouns: She/Her/Hers
 
