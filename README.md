@@ -42,4 +42,3 @@ Examples: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - ✍️ Check out my tech blog: [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://siwonlog.hashnode.dev/)](https://siwonlog.hashnode.dev/)
 - 😄 Pronouns: She/Her/Hers
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siwon-Kim&hide=TeX&layout=compact)
