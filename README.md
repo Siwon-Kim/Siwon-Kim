@@ -22,11 +22,11 @@ Examples: https://github.com/abhisheknaiidu/awesome-github-profile-readme
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Siwon-Kim&count_private=true&show_icons=true&include_all_commits=true"/>
   <h6>Tech Stack</h6>
   <p>
+    <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
