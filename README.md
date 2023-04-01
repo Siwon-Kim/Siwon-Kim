@@ -23,22 +23,29 @@ Examples: https://github.com/abhisheknaiidu/awesome-github-profile-readme
   <h6>Tech Stack</h6>
   <p>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws"/>
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-VS%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   </p>
 </p>
 
-<br>
+
 <br>
 <br>
 
