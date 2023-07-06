@@ -53,6 +53,7 @@
 </br>
 </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Siwon-Kim&theme=tokyo-night&custom_title=Siwon's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siwon-Kim&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siwon-Kim&layout=compact&theme=github_dark)
 
 </div>
