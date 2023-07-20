@@ -45,7 +45,6 @@
 
 🔭 I’m currently working on Node.js backend projects! </br>
 🌱 I’m currently learning web development, especially backend!  </br>
-🤔 I’m looking for help with Node.js & collaboration with other developers!  </br>
 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:siwonkim@gmail.com)](mailto:siwonkim@gmail.com)   </br>
 ✍️ Check out my tech blog: [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://siwonlog.hashnode.dev/)](https://siwonlog.hashnode.dev/)  </br>
 😄 Pronouns: She/Her/Hers
